@@ -17,7 +17,7 @@ Simple todo list on the force.com platform
 		- Set New User Form URL to SiteRegister
 		- Set the Default New User License and Default New User Profile to High Volume Customer Portal
 	- Enable login for the site: App Setup -> Develop -> Site -> Login Settings -> Edit, set My Profile Page to MyProfilePage
-
+- click [here for the demo](https://todolist-ncino-developer-edition.na15.force.com) 
 
 ### Register a new user on the site:
 	- Create a new account that all the registered site users will belong to. Call it TodoList Account
