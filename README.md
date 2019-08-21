@@ -3,7 +3,7 @@
 FunLess influences many areas of the product. FunLess spends a significant amount of time
 developing customer facing features that impact many different areas of the nCino product (DocMan, Smart Checklist, FormsGen etc).
 
-FunLess features are often (not always) used in multiple business domains that nCino provides solutions
+FunLess features are often used in multiple business domains that nCino provides solutions
 for (Commercial, Retail, etc), and are tools that can provide value to those domains.
 
 FunLess provides a great opportunity to work on features that use lots of different technologies and
