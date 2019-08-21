@@ -1,7 +1,7 @@
 # Platform (Functional) AKA FunLess
 
 FunLess influences many areas of the product. FunLess spends a significant amount of time
-developing customer facing features that impact many different areas of the nCino product (Doc).
+developing customer facing features that impact many different areas of the nCino product (DocMan, Smart Checklist, FormsGen etc).
 
 FunLess features are often (not always) used in multiple business domains that nCino provides solutions
 for (Commercial, Retail, etc), and are tools that can provide value to those domains.
@@ -11,7 +11,7 @@ affect a wide variety of business applications.
 
 
 ## Example Application - Smart Checklist:
-Smart Checklist is a Funless feature that is used to track work efforts (requirements) needed in the context of
+Smart Checklist is a FunLess feature that is used to track work efforts (requirements) needed in the context of
 a given record. Smart Checklist is built to support building requirements on any SObject. Smart Checklist
 has implications for many different areas of the nCino product and will be leveraged differently by 
 the different teams.
